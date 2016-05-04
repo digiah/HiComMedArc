@@ -1,8 +1,11 @@
-# Hawaii COmmunity Search Engine and Archive
+# Hawaii Community Search Engine and Archive
 
 ## culture
 
 A large part of this project will depend on community uptake.  We need to establish this as a valuable service and need to discuss it with media makers and community members from the outset.  
+## Phase 0, Internet archive
+
+see [README.md](README.md)
 
 ## Phase One
 
